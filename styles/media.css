@@ -1,0 +1,26 @@
+.aSide{
+    float: left;
+    width: auto;
+}
+
+.centered{
+    display: flex;
+    justify-content: center;
+}
+
+.galery{
+    margin: 10px;
+    border: 1px solid grey;
+    float: left;
+    width: 33vm;
+}
+
+div.galery img{
+    width: 100%;
+    height: auto;
+}
+
+.description{
+    padding: 15px;
+    text-align: center;
+}
